@@ -1,0 +1,6 @@
+/.idea/
+/praktikum.iml
+/target/
+!target/site
+/target/generated-sources/
+/target/generated-test-sources/
